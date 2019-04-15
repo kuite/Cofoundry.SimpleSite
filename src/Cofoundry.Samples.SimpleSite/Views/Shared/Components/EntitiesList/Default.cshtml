@@ -1,0 +1,13 @@
+﻿@model List<Entity>
+@inject ICofoundryHelper Cofoundry
+
+@{
+    Layout = null;
+}
+<h1>hello list</h1>
+
+@foreach (var entity in Model)
+{
+    <h3>@entity.Title</h3>
+    <h6>@entity.Description </h6>
+}

@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Cofoundry.Samples.SimpleSite",
+    "\\src\\Cofoundry.Samples.SimpleSite\\Models",
+    "\\src\\Cofoundry.Samples.SimpleSite\\ViewComponents"
+  ],
+  "SelectedNode": "\\src\\Cofoundry.Samples.SimpleSite\\ViewComponents\\ContactRequestFormViewComponent.cs",
+  "PreviewInSolutionExplorer": false
+}

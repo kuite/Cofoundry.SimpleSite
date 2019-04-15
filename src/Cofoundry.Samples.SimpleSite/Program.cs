@@ -13,7 +13,7 @@ namespace Cofoundry.Samples.SimpleSite
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args)
-            .UseUrls("http://localhost:60933", "http://52.178.135.160:60933/")
+            .UseUrls("http://localhost:60933")
             .Build().Run();
         }
 
